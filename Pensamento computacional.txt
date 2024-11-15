@@ -1,0 +1,13 @@
+Pensamento computacional 
+
+1: Levantar da cama
+2: Desativar despertador
+3: Pegar toalha 
+4: Tomar banho
+5: Pegar o pó de café 
+6: Colocar na maquina de café
+7: Aguardar o tempo de preparo
+8: Pegar uma chicara 
+9: Depositar o liquido (café)
+10: Tomar o café
+
